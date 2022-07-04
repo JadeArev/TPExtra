@@ -8,10 +8,10 @@ return (
 
         <>
 
-<div class="container"/>
-    <div class="row my-4"/>
-      <div class="col-md-12"/>
-        <img class="img-fluid box-shadow" src={Principal} alt="Campus Almagro ORT"/>
+<div className="container"/>
+    <div className="row my-4"/>
+      <div className="col-md-12"/>
+        <img className="img-fluid box-shadow" src={Principal} alt="Campus Almagro ORT"/>
       <div/>
     <div/>
 
